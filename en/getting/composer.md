@@ -26,3 +26,7 @@ drupal8.dev \
 ```
 composer update drupal/console --with-dependencies
 ```
+
+## Windows Users
+Windows users may have to remove the backslashes at the end of each line in the commands above. Better windows documentation is available at: https://docs.drupalconsole.com/en/getting/windows.html
+
